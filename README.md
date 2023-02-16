@@ -28,4 +28,7 @@ American Airlines has weather delays in the highest number of airports
 THe team reduced the scope from our initial questions to investigate all flights (arriving and departing), motnhs with the most delays and the customer satisfaction data.  The decision to reduce scope was based on the size of the arriving flights dataset (over 300,000 rows), time issues for collecting and analyzing the satisfaction data in addition to the flight data, and the time considerations to code the primary flight delay analysis. Scope reduced from 20 years to 5 years, weather impact (number, %, delays per year and month, and time of delays) reduced to number and % only.  Team added regions for analysis to crossreference with airports after the primary code was written in Pandas for airport data.  This allowed for a more robust analysis, but took additional time since it was not merged with the inital dataset when coding began.
 
 Additional analyses can be conducted to investigate the impact of weather on the delays of arriving flights in the US.
+
 =======
+
+Team Members:  Calogera McCormick, Jamie Cid, Minta Burke, Sana Azubzai, Tawn Scotton
